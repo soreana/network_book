@@ -1,11 +1,9 @@
 ---
 slug: network
 filename: network
-title: Title of the Book
-subtitle: Change me
-description: Change me.
-author: Author Name
+title: مقدمه‌ای بر شبکه‌های کامپیوتری
+subtitle: به کوشش جمعی از دانشجویان
+description: این کتاب ترجمه خیلی ‌آزادی از کتاب Computer Networking A TopDown Approach است.
+author: سینا کاشی‌پزها
 copyright: 2017
 uuid: c8ffb61a-f5a3-43ea-bab3-ee5893a8480d
-pdf_preview_page_range: 1..30
-epub_mobi_preview_chapter_range: 0..1
